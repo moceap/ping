@@ -4,6 +4,6 @@ v0.0.1
 
 This tool offers two ways to Pinging hosts in Python.
 
-Done as one of Requirement of CS232 course.
+Done as one of Requirements of CS232 course.
 
 UPM - Medina
